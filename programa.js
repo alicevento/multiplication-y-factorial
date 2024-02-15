@@ -50,4 +50,4 @@ const Programa = () => {
 // Ejecutar el programa cuando se carga la página
 Programa()
 
-//No logro hacer que se imprima en la consola el orden que pide en el examen.
+//No logro hacer que se imprima en la consola el orden que pide en el desafio.
